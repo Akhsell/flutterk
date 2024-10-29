@@ -1,3 +1,3 @@
 # flutter_application_1
 
-A new Flutter project.
+Alo ges, ini materi flutter (dart) dari pak kusnadi
