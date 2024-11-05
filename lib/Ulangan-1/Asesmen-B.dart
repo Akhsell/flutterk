@@ -15,7 +15,7 @@ void main() {
       stdout.write('Masukkan nilai mata pelajaran ke-$i: ');
       nilai = double.parse(stdin.readLineSync().toString());
     }
-
+    
     total += nilai;
   }
 
